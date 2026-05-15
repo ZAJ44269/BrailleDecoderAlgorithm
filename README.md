@@ -24,5 +24,8 @@ Los archivos contenido son los siguientes:
   
   braille_num_convert(): convierte secuencias de caracteres Braille en su equivalente numérico según la notación estándar. (Ejp: #a = 1, #b = 2, # c = 3, etc.)
 
-2. Datasets:
+2. DATASETS:
+  DATASET-COMPLETO:17,646 imágenes de 35 clases.
+  dataset-31-clases: dataset final utilizado para eltrenamiento y validación de modelos, con 31 clases.
+
   
